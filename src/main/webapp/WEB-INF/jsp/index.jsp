@@ -14,7 +14,7 @@
                                     <h6 class="m-0 font-weight-bold text-primary">Driveup Url Uploader</h6>
                                 </div>
                                 <div class="card-body">
-                                   <p style="font-size: 18px; color: black">Welcome to codeslide market GDrive Uploader</p>
+                                   <p style="font-size: 18px; color: black">Welcome to Driveup GDrive Url Uploader</p>
 				<p style="font-size: 15px; color: black">This site has no registration service or user limits.</p> 
 				<p style="font-size: 15px; color: black">Once you login your Google Drive account you can upload any file from it's URL to your Google Drive Account.</p>
 				<p style="font-size: 15px; color: black">Please Note: This site only supports direct links.</p>
