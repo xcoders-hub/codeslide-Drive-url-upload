@@ -39,7 +39,7 @@
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-laugh-wink"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">Driveup<sup>2</sup></div>
+                <div class="sidebar-brand-text mx-3">Driveup<sup>Pro</sup></div>
             </a>
             <!-- Divider -->
             <hr class="sidebar-divider my-0">
@@ -48,14 +48,14 @@
 	     <c:when test='${empty(user)}'>
             <li class="nav-item active">
                 <a class="nav-link" href="/api/oauth/google/redirect">
-                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <i class="fas fa-fw fa-google"></i>
                     <span>Login</span></a>
             </li>
 	    </c:when>
                         <c:otherwise>
 			<li class="nav-item active">
                 <a class="nav-link" href="/api/oauth/google/redirect">
-                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <i class="fas fa-fw fa-user"></i>
                     <span>Switch Users</span></a>
             </li>
 			</c:otherwise>
