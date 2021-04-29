@@ -30,6 +30,15 @@
     <jsp:invoke fragment="head_area"/>
 </head>
 <body id="page-top">
+<style>
+    .bg-gradient-primary {
+    background-color: #4e73df;
+    background-image: linear-gradient(
+180deg
+,#4e73df 10%,#224abe 100%);
+    background-size: cover;
+}
+</style>
     <!-- Page Wrapper -->
     <div id="wrapper">
         <!-- Sidebar -->
