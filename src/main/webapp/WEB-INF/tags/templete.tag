@@ -57,7 +57,7 @@
 	     <c:when test='${empty(user)}'>
             <li class="nav-item active">
                 <a class="nav-link" href="/api/oauth/google/redirect">
-                    <i class="fas fa-google"></i>
+                    <i class="fa fa-sign-in"></i>
                     <span>Login</span></a>
             </li>
 	    </c:when>
