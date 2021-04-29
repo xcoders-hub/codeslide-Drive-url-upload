@@ -63,7 +63,7 @@
                     <span>My Uploads</span></a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="https://codeslide.in">
                     <i class="fa fa-envelope"></i>
                     <span>Contact</span></a>
             </li>
