@@ -1,0 +1,21 @@
+{
+    "name": "SaveToGoogleDrive -codeslide Market",
+    "description": "App to Upload files directly to Google Drive",
+    "repository": "https://market.codeslide.in",
+    "logo": "https://raw.githubusercontent.com/ParveenBhadooOfficial/SaveToGoogleDrive/master/src/main/resources/static/img/savetodrive.png",
+    "keywords": ["google","drive","bhadoo","bhadoo cloud"],
+    "env": {
+        "client_id": {
+            "description": "Client ID from Google Console (http://bit.ly/37ED7dv)",
+            "value": "783399646828-7let7pp3rdmmdgsjdlivfcb8nc92sda2.apps.googleusercontent.com"
+        },
+        "client_secret": {
+            "description": "Client Secret from Google Console (http://bit.ly/37ED7dv)",
+            "value": "9koVXSX0DfSSodIC0qsca0Ew"
+        },
+        "redirect_uri": {
+            "description": "Your App URL eg. https://app.example.com/api/oauth/google/callback (Replace this with your own)",
+            "value": "https://driveupbot.herokuapp.com/api/oauth/google/callback"
+        }
+    }
+}
