@@ -180,8 +180,8 @@
     <!-- Page level custom scripts -->
     <script src="https://startbootstrap.github.io/startbootstrap-sb-admin-2/js/demo/chart-area-demo.js"></script>
     <script src="https://startbootstrap.github.io/startbootstrap-sb-admin-2/js/demo/chart-pie-demo.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Bhadoo-Cloud-Drive/src/main/resources/static/js/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Bhadoo-Cloud-Drive/src/main/resources/static/js/tether.min.js"></script>
+<script src="http://savetogoogledrive.herokuapp.com/js/jquery.min.js"></script>
+<script src="http://savetogoogledrive.herokuapp.com/js/tether.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Bhadoo-Cloud-Drive/src/main/resources/static/js/jquery.cookie.js"></script>
 <script src=http://savetogoogledrive.herokuapp.com/js/jquery.validate.min.js"></script>
 <script src="http://savetogoogledrive.herokuapp.com/js/front.js"></script>
