@@ -180,12 +180,12 @@
     <!-- Page level custom scripts -->
     <script src="https://startbootstrap.github.io/startbootstrap-sb-admin-2/js/demo/chart-area-demo.js"></script>
     <script src="https://startbootstrap.github.io/startbootstrap-sb-admin-2/js/demo/chart-pie-demo.js"></script>
-<script src="http://savetogoogledrive.herokuapp.com/js/jquery.min.js"></script>
-<script src="http://savetogoogledrive.herokuapp.com/js/tether.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Bhadoo-Cloud-Drive/src/main/resources/static/js/jquery.cookie.js"></script>
-<script src=http://savetogoogledrive.herokuapp.com/js/jquery.validate.min.js"></script>
-<script src="http://savetogoogledrive.herokuapp.com/js/front.js"></script>
-<script src="http://savetogoogledrive.herokuapp.com/js/sticky-footer.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://driveup.in/apis/drivebot/tether.min.js"></script>
+<script src="https://driveup.in/apis/drivebot/jquery.cookie.js"></script>
+<script src=https://driveup.in/apis/drivebot/jquery.validate.min.js"></script>
+<script src="https://driveup.in/apis/drivebot/front.js"></script>
+<script src="https://driveup.in/apis/drivebot/sticky-footer.js"></script>
 <jsp:invoke fragment="javascript"/>
 </body>
 
