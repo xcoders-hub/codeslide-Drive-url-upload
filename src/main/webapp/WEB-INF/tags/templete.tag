@@ -183,7 +183,7 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://driveup.in/apis/drivebot/tether.min.js"></script>
 <script src="https://driveup.in/apis/drivebot/jquery.cookie.js"></script>
-<script src=https://driveup.in/apis/drivebot/jquery.validate.min.js"></script>
+<script src="https://driveup.in/apis/drivebot/jquery.validate.min.js"></script>
 <script src="https://driveup.in/apis/drivebot/front.js"></script>
 <script src="https://driveup.in/apis/drivebot/sticky-footer.js"></script>
 <jsp:invoke fragment="javascript"/>
