@@ -18,7 +18,7 @@
     <link href="https://startbootstrap.github.io/startbootstrap-sb-admin-2/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"  rel="stylesheet">
     <!-- Custom styles for this template-->
-    <link href="https://rawcdn.githack.com/xcoders-hub/codeslide/48f19f91ae106959560d7e8446c0dfbde84cb1ae/driveuppro.css" rel="stylesheet">
+    <link href="https://rawcdn.githack.com/xcoders-hub/codeslide/7d08fa805bf12d7681b9e2e4f8490a39e01e46de/driveupca.css" rel="stylesheet">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124794008-20"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
