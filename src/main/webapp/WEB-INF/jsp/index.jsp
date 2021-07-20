@@ -15,10 +15,10 @@
                                 </div>
                                 <div class="card-body">
                                    <p style="font-size: 18px; color: white">Welcome to Driveup GDrive Url Uploader</p>
-				<p style="font-size: 15px; color: white">This site has no registration service or user limits.</p> 
-				<p style="font-size: 15px; color: white">Once you login your Google Drive account you can upload any file from it's URL to your Google Drive Account.</p>
-				<p style="font-size: 15px; color: white">Please Note: This site only supports direct links.</p>
-				<p style="font-size: 15px; color: white">We do not save any of your data and once server restarts auth codes are cleared from our database too.</p><br>
+				<p style="font-size: 15px; text-primary">This site has no registration service or user limits.</p> 
+				<p style="font-size: 15px; text-primary">Once you login your Google Drive account you can upload any file from it's URL to your Google Drive Account.</p>
+				<p style="font-size: 15px; text-primary">Please Note: This site only supports direct links.</p>
+				<p style="font-size: 15px; ">We do not save any of your data and once server restarts auth codes are cleared from our database too.</p><br>
                                 </div>
                                  </c:when>
                         	<c:otherwise>	
